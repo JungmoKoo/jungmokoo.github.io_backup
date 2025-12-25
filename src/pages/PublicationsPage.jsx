@@ -1,7 +1,7 @@
 import React from 'react';
 import { FaFilePdf, FaYoutube, FaGithub, FaHome } from 'react-icons/fa';
 import { SiGooglescholar } from 'react-icons/si';
-import './Publications.css';
+import './PublicationsPage.css';
 
 const PublicationsPage = () => {
     const internationalJournals = [
