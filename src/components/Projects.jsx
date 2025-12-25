@@ -4,6 +4,7 @@ import './Projects.css';
 import lungoImg from '../assets/proj_lungo.jpg';
 import tinyImg from '../assets/proj_tinyod.jpg';
 import djiImg from '../assets/proj_dji.jpg';
+import penebevImg from '../assets/proj_penebev.jpg';
 
 
 
@@ -31,7 +32,7 @@ const Projects = () => {
             title: "[NAVER LABS] Perception",
             type: "Robotics/Computer Vision",
             // image: "https://jungmokoo.github.io/penebev/assets/images/compare_1_cam2bev.png",
-            image: "https://img.youtube.com/vi/j_xf1Idb9H0/0.jpg",
+            image: penebevImg,
             link: "https://jungmokoo.github.io/penebev",
             isVideo: false
         },
